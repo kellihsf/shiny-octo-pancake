@@ -8,3 +8,4 @@ come up with the things that need to be done.
 do the stuff in step 1
 - step 3: 
 buy large bag to put all of the money in
+ - note: is that from BBT? ^
