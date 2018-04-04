@@ -11,6 +11,3 @@ buy large bag to put all of the money in
  - note: is that from BBT? ^
  - i think so. i don't recall
 i'd like to test some things. not gonna work. 
-testing
-new pr
-this thing
