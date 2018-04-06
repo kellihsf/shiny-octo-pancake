@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/kellihsf/shiny-octo-pancake.png?columns=all)](https://waffle.io/kellihsf/shiny-octo-pancake?utm_source=badge)
 # shiny-octo-pancake
 
 This repo will contain all of the documents needed for project #4325b. 
