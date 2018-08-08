@@ -13,4 +13,4 @@ buy large bag to put all of the money in
  - i think so. i don't recall
 i'd like to test some things. not gonna work.
 please bore someone else with your questions
-stahp
+stahp it now
