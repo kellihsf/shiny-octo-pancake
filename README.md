@@ -11,5 +11,3 @@ do the stuff in step 1
 buy large bag to put all of the money in
  - note: is that from BBT? ^
  - i think so. i don't recall
-i'd like to test some things. not gonna work.
-please bore someone else with your questions
