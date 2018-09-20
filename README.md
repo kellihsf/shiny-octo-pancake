@@ -11,5 +11,3 @@ do the stuff in step 1
 buy large bag to put all of the money in
  - note: is that from BBT? ^
  - i think so. i don't recall..
-it is. 
-say it don't spray it
